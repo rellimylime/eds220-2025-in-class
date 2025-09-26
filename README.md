@@ -8,7 +8,7 @@ This repository hosts all the work completed by Emily Miller during the EDS 220 
 - **Term:** Fall 2025
 - **Program:** [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
 
-Teaching Team:
+Teaching Team: 
 
 - **Instructor:** [Carmen Galaz García](https://github.com/carmengg)
 - **Co-Instructor:** [Annie Adams](https://github.com/annieradams) 
